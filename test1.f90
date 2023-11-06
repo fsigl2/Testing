@@ -1,6 +1,6 @@
 program test
 implicit none;
-integer :: ttest1;
-ttest1 = 20;
-print *, ttest;
+integer ::ttest1;
+test1 = 20;
+print *, test1;
 end program test
